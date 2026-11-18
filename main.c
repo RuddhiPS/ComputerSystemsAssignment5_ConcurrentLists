@@ -6,7 +6,8 @@
 #include <time.h>
 
 // #define TOTAL_OPS 30000
-#define MAX_KEY 100
+// #define MAX_KEY 100
+#define MAX_KEY 500
 // #define REPEATS 3
 
 #define TOTAL_OPS 1000000
